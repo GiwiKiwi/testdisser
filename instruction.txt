@@ -2,3 +2,17 @@
 git add --all .
 git commit -m "modif ololo"
 git push
+
+
+
+
+.\myvenv\Scripts\activate
+
+python.exe .\manage.py runserver
+
+
+
+
+//залить с гитхаба на сайт
+cd testdisser
+git pull
